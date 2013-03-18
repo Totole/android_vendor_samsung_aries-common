@@ -3,3 +3,4 @@
 
 chmod 0666 /sys/module/bcmdhd/parameters/wifi_speed
 chmod 0666 /data/local/mackay/bln
+chmod 0666 /data/local/mackay/chosenrecovery
